@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #011D38;
+}
+
+.axis line {
+  stroke: #6CA9E3;
+  fill: #6CA9E3;
+}
+
+.axis path {
+  stroke: #6CA9E3;
+}
+
+.axis text {
+  stroke: #6CA9E3;
+  font-family: verdana;
+}
+
+.title {
+  font-family: verdana;
+  font-weight: 800;
+  fill:  #6CA9E3;
+}

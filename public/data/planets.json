@@ -1,0 +1,36 @@
+{
+  "planetDiameters": [
+  	{
+      "planet": "Mercury",
+      "diameter": 4879
+    },
+    {
+      "planet": "Venus",
+      "diameter": 12104
+    },
+    {
+      "planet": "Earth",
+      "diameter": 12756
+    },
+    {
+      "planet": "Mars",
+      "diameter": 6792
+    },
+    {
+      "planet": "Jupiter",
+      "diameter": 142984
+    },
+    {
+      "planet": "Saturn",
+      "diameter": 120536
+    },
+    {
+      "planet": "Uranus",
+      "diameter": 51118
+    },
+    {
+      "planet": "Neptune",
+      "diameter": 49528
+    }
+  ]
+}

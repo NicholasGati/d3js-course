@@ -1,0 +1,13 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+
+.axis line, .axis path {
+  stroke: #00A0B0;
+}
+
+.axis text {
+  stroke: #00A0B0;
+  font-family: verdana;
+}
