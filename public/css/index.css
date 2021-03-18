@@ -1,0 +1,30 @@
+body {
+  margin: 0px;
+  padding: 50px;
+  background-color: #011D38;
+  font-family: Courier;
+}
+
+h1 {
+  color: #FFF;
+  text-align: center;
+}
+
+.underline {
+  text-decoration: underline;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0px;
+}
+
+li {
+  display: inline-block;
+  margin: 20px;
+}
+
+li a {
+  color: #FFF;
+  text-decoration: none;
+}
